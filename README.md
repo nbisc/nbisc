@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nbisc&show_icons=true)
+- 🔭 I’m currently working at Phytec Messtechnik GmbH
+- 🌱 I’m currently learning python, openpyxl, pandas, pylatex and much more
+
 
 <!--
 **nbisc/nbisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
