@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Phytec Messtechnik GmbH
-- 🌱 I’m currently learning python, openpyxl, pandas, pylatex and much more
+- 🌱 I’m currently learning python, labgrid, openpyxl, pandas, pylatex and much more
 
 
 <!--
